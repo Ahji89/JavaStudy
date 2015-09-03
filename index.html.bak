@@ -49,8 +49,9 @@
               <a href="/JavaStudy/java/1회차 - 객체와 클래스.pptx"><button type="button" class="btn btn-success">발표 자료</button></a>
               <a href="#"><button type="button" class="btn btn-default disabled">발표 코드</button></a>
               <a href="#"><button type="button" class="btn btn-default disabled">심화 문제</button></a>
+            </div>
 
-			  <div class="list-group">
+			<div class="list-group">
               <a href="#" target="_blank" class="list-group-item">
                 <h4 class="list-group-item-heading">심화 문제 발표 코드</h4>
                 <p class="list-group-item-text">by 님</p>
@@ -65,7 +66,6 @@
                 <h4 class="list-group-item-heading">심화 문제 코드</h4>
                 <p class="list-group-item-text">by 빌표자 외 전원</p>
               </a>
-            </div>
             </div>
 
 			<!--
