@@ -113,7 +113,7 @@
             </div>
             <div class="panel-body">
               <a href="/JavaStudy/java/ppt/3회차 - 레퍼런스 타입.pptx"><button type="button" class="btn btn-success">발표 자료</button></a>
-              <a href="/JavaStudy/java/src/3회차 - 레퍼런스 타입(발표).zip"><button type="button" class="btn btn-default disabled">발표 코드</button></a>
+              <a href="/JavaStudy/java/src/3회차 - 레퍼런스 타입(발표).zip"><button type="button" class="btn btn-success">발표 코드</button></a>
               <a href="/JavaStudy/java/homework/3회차 - 레퍼런스 타입(숙제).png"><button type="button" class="btn btn-success">숙제 파일</button></a>
 			  
 			  <p>&nbsp;</p>
@@ -182,3 +182,5 @@
 	<script src="bootstrap/usebootstrap.js"></script>
   </body>
 </html>
+
+<!-- btn-default disabled -->
